@@ -1,2 +1,2 @@
-# Python programminh
+# Python programming
 Python
