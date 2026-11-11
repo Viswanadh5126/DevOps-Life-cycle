@@ -1,2 +1,2 @@
-# DevOps-Life-cycle
-Describing about the life cycle of DevOps
+# Python programminh
+Python
